@@ -1,0 +1,17 @@
+C:\Users\danie\Desktop\Daniel Furmanov Homework#2\HW2PartA\obj\Debug\net9.0\HW2PartA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\Daniel Furmanov Homework#2\HW2PartA\obj\Debug\net9.0\HW2PartA.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\Daniel Furmanov Homework#2\HW2PartA\obj\Debug\net9.0\HW2PartA.AssemblyInfo.cs
+C:\Users\danie\Desktop\Daniel Furmanov Homework#2\HW2PartA\obj\Debug\net9.0\HW2PartA.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Daniel Furmanov Homework#2\HW2PartA\bin\Debug\net9.0\HW2PartA.exe
+C:\Users\danie\Desktop\Daniel Furmanov Homework#2\HW2PartA\bin\Debug\net9.0\HW2PartA.deps.json
+C:\Users\danie\Desktop\Daniel Furmanov Homework#2\HW2PartA\bin\Debug\net9.0\HW2PartA.runtimeconfig.json
+C:\Users\danie\Desktop\Daniel Furmanov Homework#2\HW2PartA\bin\Debug\net9.0\HW2PartA.dll
+C:\Users\danie\Desktop\Daniel Furmanov Homework#2\HW2PartA\bin\Debug\net9.0\HW2PartA.pdb
+C:\Users\danie\Desktop\Daniel Furmanov Homework#2\HW2PartA\bin\Debug\net9.0\Cards2.dll
+C:\Users\danie\Desktop\Daniel Furmanov Homework#2\HW2PartA\obj\Debug\net9.0\HW2PartA.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\Daniel Furmanov Homework#2\HW2PartA\obj\Debug\net9.0\HW2PartA.csproj.Up2Date
+C:\Users\danie\Desktop\Daniel Furmanov Homework#2\HW2PartA\obj\Debug\net9.0\HW2PartA.dll
+C:\Users\danie\Desktop\Daniel Furmanov Homework#2\HW2PartA\obj\Debug\net9.0\refint\HW2PartA.dll
+C:\Users\danie\Desktop\Daniel Furmanov Homework#2\HW2PartA\obj\Debug\net9.0\HW2PartA.pdb
+C:\Users\danie\Desktop\Daniel Furmanov Homework#2\HW2PartA\obj\Debug\net9.0\HW2PartA.genruntimeconfig.cache
+C:\Users\danie\Desktop\Daniel Furmanov Homework#2\HW2PartA\obj\Debug\net9.0\ref\HW2PartA.dll
