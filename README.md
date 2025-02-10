@@ -44,3 +44,5 @@ string input = Console.ReadLine();
 
 // print the cards for player 4
 ```
+Results:
+![image](https://github.com/user-attachments/assets/4d2763e0-e2e5-40fe-8bfa-b4acef565ac3)
